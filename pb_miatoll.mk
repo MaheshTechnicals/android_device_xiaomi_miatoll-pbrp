@@ -16,7 +16,7 @@ $(call inherit-product, vendor/pb/config/common.mk)
 $(call inherit-product, device/xiaomi/miatoll/device.mk)
 
 PRODUCT_DEVICE := miatoll
-PRODUCT_NAME := twrp_miatoll
+PRODUCT_NAME := pb_miatoll
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := SM6250
 PRODUCT_MANUFACTURER := Xiaomi
